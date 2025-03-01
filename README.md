@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm HongbinXiao</h1>
-<h3 align="center">I am a third-year Ph.D. student at the School of Computer Science and Engineering, Guangxi Normal University. My supervisor is Professor Zhi Li. I am expected to graduate in June 2026.</h3>
+<h3 align="center">I am a third-year Ph.D. student at the School of Computer Science and Engineering, Guangxi Normal University. My supervisor is Professor Zhi Li. I am expected to graduate in June 2026.[Learn more](https://hongbin-xiao.github.io/)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hongbin-xiao&label=Profile%20views&color=0e75b6&style=flat" alt="hongbin-xiao" /> </p>
 
