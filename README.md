@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm HongbinXiao</h1>
-<h3 align="center">I am a third-year Ph.D. student at the School of Computer Science and Engineering, Guangxi Normal University. My supervisor is Professor Zhi Li. I am expected to graduate in June 2026. [Learn more](https://hongbin-xiao.github.io/)
+<h1 align="center">Hi 👋, I'm Hongbin Xiao</h1>
+<h3 align="center">
+  I am currently a third-year Ph.D. candidate at the School of Computer Science and Engineering, Guangxi Normal University, under the supervision of Professor Zhi Li. My research interests include Software Engineering, Requirements Engineering, Problem Frames, Model-driven Engineering, Model Transformation, Large Language Models (LLM), and Artificial Intelligence. I am expected to complete my Ph.D. by June 2026. 
+  <a href="https://hongbin-xiao.github.io/" target="_blank">Learn more</a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hongbin-xiao&label=Profile%20views&color=0e75b6&style=flat" alt="hongbin-xiao" /> </p>
